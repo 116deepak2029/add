@@ -1,0 +1,60 @@
+.carousel-item{
+    max-width: 500px;
+    width: 100%;
+    height: 608px;
+    background:#e3e3de;
+}
+.text p{
+    text-align: center;
+}
+.carousel-item.active{
+    max-width: 500px;
+    width: 100%;
+}
+.bow_text{
+    font-size: 25px;
+    padding: 10px;
+    font-weight: normal;
+    margin-bottom: 0;
+    background: orange;
+
+    
+}
+.carousel{
+    position: relative;
+}
+.carousel-control-prev{
+         left: -53px;
+        background:  #ff5722;
+        width: 50px;
+        top: 50%;
+        height: 50px;
+}
+.carousel-control-next{
+    right: -53px;
+
+
+}
+.carousel-control-next{
+    background: #ff5722;
+    width: 50px;
+    top: 50%;
+    height: 50px;
+}
+.fa{
+    font-size: 35px;
+    color: grey;
+}
+.book_text{
+    font-size: 26px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.text p{
+    font-size: 24px;
+    font-style: italic;
+}
+.bow_text span{
+    font-weight: 700;
+}
